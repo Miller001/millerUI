@@ -4,7 +4,7 @@
 
 ### 示例
 
-<m-card imgSrc="/logo.png" summary="Vue" />
+<m-card imgSrc="/millerUI/logo.png" summary="Vue" />
 
 ### 代码
 
