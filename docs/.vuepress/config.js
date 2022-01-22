@@ -1,5 +1,5 @@
 module.exports = {
-	base: 'millerUI',
+	base: '/millerUI/',
 	themeConfig: {
 		sidebar: ['/', '/componentDocs/card'],
 	},
